@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Junior Full-Stack Developer trainee <br>🎓 Undergraduate student in Computer Science <br>📚 Currently learning: React, Node & TypeScript
+💻 Junior Full-Stack Developer trainee <br>🎓 Undergraduate student in Computer Science <br>📚 Currently learning: React Native
 
 
 ## 🌐 Socials:
